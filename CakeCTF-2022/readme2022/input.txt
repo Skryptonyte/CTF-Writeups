@@ -1,0 +1,6 @@
+~sys/fd/6
+
+Explanation:
+~sys has home folder at /dev
+
+Notice that /flag.txt is left open. We can access this dangling descriptor at /dev/fd/6
