@@ -1,0 +1,1 @@
+Solve by using Logic analyzer and interpret bitstream as Async serial 38400bps
