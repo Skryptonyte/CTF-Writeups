@@ -1,0 +1,1 @@
+Set environment variable host_proxy to the same IP:port pair as the local web server that holds the flag.
